@@ -2,7 +2,7 @@
 
 Chat with any PDF using **blazing fast GROQ LLMs**, powered by **LangChain**, **ChromaDB**, and **Streamlit**.
 
-[![Watch the demo](demo-thumbnail.png)](./Turbo_PDF_Chat_Assistant.mp4)
+🎥 [Click to watch the demo](./Turbo_PDF_Chat_Assistant.mp4)
 
 ## ⚡ Features
 
